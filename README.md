@@ -1,2 +1,2 @@
-# learning-web
-Source storage for study
+# html 
+testpages of assignments form MDN  
